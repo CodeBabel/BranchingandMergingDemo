@@ -26,6 +26,4 @@ node
     sh """chmod +x HelloWorld.sh 
     ./HelloWorld.sh"""
  
-    }
-
-  }
+ 
