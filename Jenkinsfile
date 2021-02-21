@@ -7,7 +7,5 @@ node
   stage('deploy')
     {
     echo "Hello Kent"
-    
-   
     }
 }
