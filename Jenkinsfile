@@ -24,7 +24,7 @@ node
       }
       
     sh """chmod +x HelloWorld.sh 
-    ./HelloWorld.sh"""
+     echo "Hi man looks its working" """"
  
     }
 }
